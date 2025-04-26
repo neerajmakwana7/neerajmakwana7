@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Neeraj Makwana <br> I'm a Student <br> from Bhopal</p>
+<p align="left">This is Neeraj Makwana <br> I'm a Student <br> from Bhopal</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs.....<br>📚 I'm currently learning Java full stack<br>🎯 Goals: Become a pro....<br>🎲 Fun fact: More Chaotic</p>
+<p align="left">✨ Creating bugs.....<br>📚 Currently learning Java full stack<br>🎯 Goals: Become a pro....<br>🎲 Fun fact: More Chaotic</p>
 
 ###
 
